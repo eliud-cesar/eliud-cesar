@@ -9,11 +9,11 @@ Esto es solo algo que puedo contarte, si quieres saber mas sobre mi y mi experie
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliud-cesar&show_icons=true&theme=radical&include_all_commits=true&locale=es)
 
 
-## Los lenguajes que estan en Github
+## Los lenguajes que he usado en Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliud-cesar&langs_count=8)](https://github.com/eliud-cesar/github-readme-stats)
 
 
-## ALgunos de mis proyecto chulos
+## ALgunos de mis proyecto
 <a href="https://github.com/eliud-cesar/conalep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliud-cesar&repo=conalep&show_owner=true" />
 </a>
